@@ -1,4 +1,6 @@
 # Proyecto1
 Proyecto 1 RC
-Contiene: Página de contacto, Formulario de contacto y Slider.
-
+Contiene:
+1) Slider
+2) Pagina de contacto y formulario de contacto
+3) Pagina de error
