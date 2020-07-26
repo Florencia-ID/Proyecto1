@@ -1,6 +1,28 @@
+/* Slider */
+h5 {
+    color: #f1ece9;
+    font-family: 'sans-serif';
+    font-size: 30px;
+    
+}
+
+.carousel-caption {
+    background: rgba(0, 0, 0, 0.5);
+  
+}
+    
+.carousel-text {
+    position: relative;
+    color: #f1ece9;
+    font-weight: lighter;
+    font-family: 'sans-serif';
+    font-size: 25px;
+
+}
+
 /* Página de contacto */
 body {
-    font-family: 'Open Sans', 'sans-serif';
+    font-family: 'sans-serif';
 }
 .jumbotron {
     background-color: #485058;
@@ -12,6 +34,9 @@ body {
     background-size: cover;
     position: relative; */
 
+}
+.lead {
+    font-weight: lighter;
 }
 .text-contactus {
     padding-top: 30px;
@@ -31,20 +56,23 @@ body {
     background-color: #f1ece9;
 }
 .display-4 {
-    font-family: 'Open Sans';
+    font-family: 'sans serif';
     font-weight: 500;
 }
 .btn {
     margin-top: 15px;
     background-color: #333A42;
+    font-size: 18px;
 }
 .p {
     font-weight: 500;
     color: #333a42;
+    font-size: 30px;
 }
 h3 {
     font-weight: 700;
 }
+
 /* Página de error */
 body {
     background-color:#f1ece9 ;
